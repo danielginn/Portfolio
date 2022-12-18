@@ -2,23 +2,23 @@ Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Daniel Ginn
+Daniel Ginn
+Computer Vision Research & Developer
 
 Show Contacts
 
 Email
-richard@example.com
+daniel.ginn@tamu.edu
 
 Phone
-+1 (213) 352-2795
++1 (979) 393-2982
 
 Birthday
-June 23, 1982
+December 29, 1989
 
 Location
-Sacramento, California, USA
+College Station, Texas, USA
 
 # navbar
 
